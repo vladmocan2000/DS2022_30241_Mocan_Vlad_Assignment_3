@@ -1,0 +1,2 @@
+obj\Debug\net6.0\Protos/Meta.cs \
+obj\Debug\net6.0\Protos/MetaGrpc.cs: Protos/meta.proto
